@@ -1,0 +1,9 @@
+.employee-container{
+    display: flex;
+}
+
+.person-container{
+    width: 75%;
+    margin-left: 30px;
+    border-right: 1px solid gray;
+}
